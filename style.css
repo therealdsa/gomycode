@@ -1,0 +1,128 @@
+.gate{
+    background-color: #1F2235;
+    height: 80px;
+}
+
+.logo{
+    color: whitesmoke;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+
+.gate ul{
+    float: right;
+    margin-right: 20px;
+}
+
+.gate ul li{
+    display: inline-block;
+    color: whitesmoke;
+    line-height: 80px;
+    margin: 0  5px;
+}
+
+.logo span{
+    color: red;
+}
+
+body{
+    background-image: url(modern-lamp-illuminates-elegant-living-room-decor-generated-by-ai.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.mid{
+      display: flex;
+    /* align-items: center; */
+    padding: 0 50px;
+    margin-bottom: 2%;
+    
+    
+}
+
+.middd h1{
+    font-weight: bolder;
+    font-size: 40px;
+    color: whitesmoke;
+    margin-bottom: 3%;
+
+
+}
+
+.middd p{
+    font-weight: bolder;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+.gomy{
+    color: red;
+}
+
+.logo{
+    height: 6px;
+    width: 6px;
+}
+
+.logo1{
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+    background-color: #1F2235;
+    padding: 10px;
+    border-style: solid;
+    border-color: red;
+    margin-bottom: 1%;
+    
+}
+
+.banner{
+    /* height:40vh; */
+    display: flex;
+    align-items: center;
+    padding: 0 50px;
+    margin-top: 10%;
+    margin-left: 3%;
+    
+}
+
+.auddd{
+    padding: 0 50px;
+    margin-bottom: 1%;
+
+}
+
+.forl{
+    height: 50px;
+    border-radius: 15px;
+    background-color: #1F2235;
+    color: whitesmoke;
+    font-size: medium;
+    padding: 0 30;
+    align-items: center;
+    margin-left: 7%;
+    margin-top: 1%;
+    border-style: solid;
+    border-color: red;
+
+}
+
+.serv{
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 4%;
+
+}
+
+
+.serv h2{
+    font-size: medium;
+    color: red;
+}
+
+
+
